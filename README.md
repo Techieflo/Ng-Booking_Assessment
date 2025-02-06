@@ -38,7 +38,7 @@ Before running the application, ensure you have the following installed:
    ```
 
 3. **Set Up API Configuration**
-   The application interacts with a backend service hosted at `https://mobile-assessment.onrender.com/api`. To ensure seamless API interaction, the base URL is stored as a constant in the service class:
+   The application interacts with a backend service hosted at `https://mobile-assessment.onrender.com/api`. To ensure seamless API interaction, the base URL is stored as a constant in the .env file:
    ```dart
    const String baseUrl = "https://mobile-assessment.onrender.com/api";
    ```
