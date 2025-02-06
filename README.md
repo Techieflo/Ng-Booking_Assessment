@@ -70,6 +70,7 @@ To complete this project, I used the following technologies and methodologies:
 - **Form Validation:** Implemented real-time validation for user input to improve UX and prevent incorrect data submission.
 - **Error Handling:** Displayed proper error messages using Snackbars and alerts to improve user experience.
 - **Security Considerations:** Ensured API keys and sensitive data are not exposed in the codebase.
+- **Development Output:** https://appetize.io/embed/b_gv4n2i3c6bwuox2nipvwridr7e
 
 ---
 
